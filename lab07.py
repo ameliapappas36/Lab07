@@ -98,8 +98,8 @@ def main():
 
     # menu[1][1](*menu[1][2])
     # menu[2][1](*menu[2][2])
-    menu[3][1](*menu[3][2])
-    print ("Don't Print")
+    # menu[3][1](*menu[3][2])
+    # print ("Don't Print")
     # print(vigenere_head(alphabet))
     # vigenere_sq_print(
     # vigenere_sq(alphabet))
